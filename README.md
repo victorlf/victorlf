@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A Web Developer Instructor focused on helping people start programming</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorlf" alt="victorlf" /> </p>
 
-- 🔭 I’m currently working on [CBPF](https://portal.cbpf.br/pt-br/)
+<!-- - 🔭 I’m currently working on [Place](https://placeHomePage.com)-->
 
 <!-- - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br) -->
 
