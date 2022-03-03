@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A Web Developer Instructor focused on helping people start programming</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorlf" alt="victorlf" /> </p>
 
-- 🔭 I’m currently working part-time at **SmartMentor** [Place](https://placeHomePage.com)
+- 🔭 I’m currently working part-time at **SmartMentor**
 
 <!-- - 👨‍💻 All of my projects are available at []() -->
 
