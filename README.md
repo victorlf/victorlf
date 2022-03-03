@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter/Dart**. Or about other technologies that compose [my stack](https://stackshare.io/victorlf/my-stack).
 
-- 📫 How to reach me **victorlfonseca@gmail.com**.
+<!--- 📫 How to reach me **victorlfonseca@gmail.com**.-->
 
 <!-- - ⚡ Fun fact **Oneye 😜** -->
 
