@@ -2,13 +2,11 @@
 <!-- <h3 align="center">A Web Developer Instructor focused on helping people start programming</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorlf" alt="victorlf" /> </p>
 
-<!-- - 🔭 I’m currently working on [Place](https://placeHomePage.com)-->
+- 🔭 I’m currently working part-time at **SmartMentor** [Place](https://placeHomePage.com)
 
-<!-- - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br) -->
+<!-- - 👨‍💻 All of my projects are available at []() -->
 
-<!-- - ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat) -->
-
-<!-- - 💬 Ask me about **JavaScript, HTML, CSS, SQL** -->
+- 💬 Ask me about **Flutter and Dart**. Or about other technologies that compose [my stack](https://stackshare.io/victorlf/my-stack)
 
 - 📫 How to reach me **victorlfonseca@gmail.com**
 
