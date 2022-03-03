@@ -2,13 +2,13 @@
 <!-- <h3 align="center">A Web Developer Instructor focused on helping people start programming</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorlf" alt="victorlf" /> </p>
 
-- 🔭 I’m currently working part-time at **SmartMentor**
+- 🔭 I’m currently working part-time at **SmartMentor**. Working with Flutter/Dart.
 
 <!-- - 👨‍💻 All of my projects are available at []() -->
 
-- 💬 Ask me about **Flutter and Dart**. Or about other technologies that compose [my stack](https://stackshare.io/victorlf/my-stack)
+- 💬 Ask me about **Flutter/Dart**. Or about other technologies that compose [my stack](https://stackshare.io/victorlf/my-stack).
 
-- 📫 How to reach me **victorlfonseca@gmail.com**
+- 📫 How to reach me **victorlfonseca@gmail.com**.
 
 <!-- - ⚡ Fun fact **Oneye 😜** -->
 
