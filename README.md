@@ -4,6 +4,10 @@
 
 - 🔭 I’m currently working part-time at **SmartMentor**. Working with Flutter/Dart.
 
+- 🌱 I’m currently focusing in improve in **Flutter/Dart**.
+
+- 👯 I’m looking to collaborate on projects as a Flutter/Developer.
+
 <!-- - 👨‍💻 All of my projects are available at []() -->
 
 - 💬 Ask me about **Flutter/Dart**. Or about other technologies that compose [my stack](https://stackshare.io/victorlf/my-stack).
