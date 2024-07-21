@@ -2,7 +2,9 @@
 <!-- <h3 align="center">A Web Developer Instructor focused on helping people start programming</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorlf" alt="victorlf" /> </p>
 
-- 🔭 I’m currently working full-time at [**Líder Aviação**](https://www.lideraviacao.com.br/en/). Working with Mobile Development.
+<!-- - 🔭 I’m currently working full-time at [**Líder Aviação**](https://www.lideraviacao.com.br/en/). Working with Mobile Development.-->
+
+- 🔭 I’m currently working full-time with Mobile Development.
 
 - 🌱 I’m currently focusing on improving **Flutter/Dart**.
 
